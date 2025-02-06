@@ -1,4 +1,4 @@
-Real Estate Price Prediction for cities in Bangalore
+#Real Estate Price Prediction for cities in Bangalore
 This project predicts real estate prices for cities in Bangalore using a Multiple Linear Regression (MLR) model. The model was trained on various independent variables like bathroom count, BHK count, location, and area in sqft. The dependent variable is the price of the property, which is predicted based on the input features.
 
 Key Features:
