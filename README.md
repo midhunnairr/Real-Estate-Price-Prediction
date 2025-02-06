@@ -18,17 +18,17 @@ Model Accuracy: 87%
 The model is wrapped in a Flask backend and integrated with a Streamlit frontend to provide a seamless user experience. The user can input property features like bathrooms, BHK, location, and area in sqft, and the application predicts the property price.
 
 ### How to Run the Application:
-##### Run the Flask Backend:
+#### Run the Flask Backend:
 python main.py
 This will start the Flask backend at http://127.0.0.1:5000.
 
-##### Run the Streamlit Frontend:
+#### Run the Streamlit Frontend:
 Open a new terminal and navigate to the project folder. Then run:
 
 streamlit run Frontend.app.py
 This will start the Streamlit frontend 
 
-##### Interact with the Application:
+#### Interact with the Application:
 Once both the backend and frontend are running:
 
 Enter the property details (bathrooms, BHK, location, and area in sqft) in the Streamlit interface.
